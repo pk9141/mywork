@@ -1,0 +1,16 @@
+body{
+background-image:url(1093.jpg);
+font-family:"Courier New";
+text-align:center;
+}
+.pay
+{
+font-size:large;
+font-weight:bold;
+color:rgb(145,0,0);
+text-align:left;
+}
+.reg
+{
+color:white;
+}
